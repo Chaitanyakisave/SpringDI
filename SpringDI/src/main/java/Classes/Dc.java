@@ -23,7 +23,7 @@ public class Dc  implements Cardpayment1{
 	}
 	@Override
 	public String toString() {
-		System.out.println("Process of payment using Credit card please wait...");
+		System.out.println("Process of payment using Dedit card please wait...");
 		return "Dc [name=" + name + ", address=" + address.toString() + "]";
 	}
 
